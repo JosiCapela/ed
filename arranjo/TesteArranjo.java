@@ -10,7 +10,9 @@ public class TesteArranjo {
         System.out.println(arr1.Get(1));
         arr1.Set(2,"c");
         arr1.Imprime();
-		arr1.Set(3,"d");
+        arr1.Set(3,"d");
+        arr1.Imprime();
+        arr1.set(4,"e");
         arr1.Imprime();
 	}   
 }
